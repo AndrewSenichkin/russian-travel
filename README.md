@@ -16,4 +16,4 @@
 * CSS3
 Примечание: проект был создан с использованием версии HTML5, CSS3.
 ------
-### Ссылка на GitHub Pages: ....
+### Ссылка на GitHub Pages: https://andrewsenichkin.github.io/russian-travel/index.html
