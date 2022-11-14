@@ -23,8 +23,8 @@
     bottom: 0;
     background-color: #2A2C2F;
     opacity: .3;
-    z-index: -1;  
-    transition: opacity .3s ease;  
+    z-index: -1;
+    transition: opacity .3s ease;
 }
 
 .cover__link:hover::before {
@@ -43,7 +43,14 @@
     }
 }
 
-@media screen  and (max-width: 320px){
+@media screen and (max-width: 700px) {
+    .cover__link {
+        min-height: 320px;
+    }
+}
+
+
+@media screen  and (max-width: 320px) {
     .cover__link {
         min-height: 200px;
     }

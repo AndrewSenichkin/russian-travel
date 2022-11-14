@@ -16,9 +16,17 @@
         padding: 0 64px;
     }
 }
-@media screen and (max-width: 320px) {
+
+@media screen and (max-width: 450px) {
     .lead__subtitle {
         padding: 0 16px;
+        font-size: 20px;
+        line-height: 26px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .lead__subtitle {
         font-size: 16px;
         line-height: 20px;
     }
