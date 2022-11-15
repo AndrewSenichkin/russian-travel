@@ -5,7 +5,7 @@
     font-size: 18px;
     line-height: 22px;
     text-decoration-line: underline;
-    text-underline-offset: 2px;
+    text-underline-offset: 4px;
     align-self: flex-start;
     transition: ease .3;
 }
